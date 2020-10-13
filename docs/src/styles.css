@@ -30,8 +30,8 @@ body {
   }
 }
 .square {
-  height: 30px;
-  width: 30px;
+  height: auto;
+  width: auto;
   background-color: black;
   border-radius: 3px;
   position: relative;
