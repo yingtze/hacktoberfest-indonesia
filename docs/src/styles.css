@@ -16,8 +16,8 @@ body {
 .circle {
   margin-left: auto;
   margin-right: auto;
-  height: 100px;
-  width: 100px;
+  height: auto;
+  width: auto;
   border-radius: 50%;
   border: 30px solid black;
   animation-name: rotate;
