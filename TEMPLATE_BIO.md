@@ -1,20 +1,20 @@
 # Nama
 
-<img src="https://avatars2.githubusercontent.com/u/52828564?s=460&u=cdcbb016819a61864e39050658e7e56ad9383fa8&v=4" width="200" height="200" align="center"/>
+<img src="https://avatars2.githubusercontent.com/u/48281752?s" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
-Sulawesi-selatan, Makassar
+Sulawesi-selatan, Makassar Sinjai
 
 ### Sekolah / Akademik
 
-Stmik profesional makassar
+Sistem Informasi
 
 ### Hobi
 
-- Main gitar
-- Ngoding
-- Baca artikel bahasa pemerograman
+- minum kopi
+- Ngoding & config
+- Baca artikel bahasa pemerograman dan jaringan
 
 ### Bahasa Pemograman 
 
@@ -24,9 +24,9 @@ Stmik profesional makassar
 
 ### Project
 
-- https://play.google.com/store/apps/details?id=com.shegi.futsalcourtcookings
+- https://storepoin.com/
 
 
 ### Profile Link
 
-[Nama](https://github.com/shegi-developer)
+[aryawibowoobo](https://github.com/aryawibowoobo)
