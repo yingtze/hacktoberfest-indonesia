@@ -1,32 +1,33 @@
 # Nama
 
-<img src="https://avatars2.githubusercontent.com/u/48281752?s" width="200" height="200" align="center"/>
+<img src="https://avatars0.githubusercontent.com/u/56031836?s=400&u=508e1d1eede17202730e78be8cd11562b25ce477&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
-Sulawesi-selatan, Makassar Sinjai
+Banten, Tangerang
 
 ### Sekolah / Akademik
 
-Sistem Informasi
+Rekayasa Perangkat Lunak at SMKN Negeri 5 Kota Tangerang
 
 ### Hobi
 
-- minum kopi
-- Ngoding & config
-- Baca artikel bahasa pemerograman dan jaringan
+- Begadang
+- Ngoding & syntax
+- Baca artikel bahasa pemrograman
+- Joging
 
 ### Bahasa Pemograman 
 
-- Java
 - PHP
-- Pyhton
+- HTML
 
 ### Project
 
-- https://storepoin.com/
+- https://bhinepay.com
+- https://bhinekapulsa.my.id
 
 
 ### Profile Link
 
-[aryawibowoobo](https://github.com/aryawibowoobo)
+[Iqbal Mandiyansah](https://github.com/code2an)
