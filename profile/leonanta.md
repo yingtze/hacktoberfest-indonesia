@@ -1,6 +1,6 @@
 # Leonanta Pramudya Kusuma
 
-<img src="https://avatars0.githubusercontent.com/u/56031836?s=400&u=508e1d1eede17202730e78be8cd11562b25ce477&v=4" width="200" height="200" align="center"/>
+<img src="https://avatars3.githubusercontent.com/u/38516775?s=460&u=3ca1fbb557e9d926c62016af3117912a96f47961&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
