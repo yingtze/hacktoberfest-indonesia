@@ -1,6 +1,5 @@
 # Nama
 
-Yingzte
 <img src="https://avatars2.githubusercontent.com/u/57057072?s=460&u=7bb7efaf28b6acc06613aa8494cf9a99b751037e&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
@@ -14,7 +13,7 @@ Lulusan SMKN 1 Giritontro
 ### Hobi
 
 - Nonton Anime
-- Ngodin
+- Ngoding
 - Baca artikel pemrograman
 
 ### Bahasa Pemograman 
