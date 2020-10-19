@@ -1,33 +1,31 @@
 # Nama
 
-<img src="https://avatars0.githubusercontent.com/u/56031836?s=400&u=508e1d1eede17202730e78be8cd11562b25ce477&v=4" width="200" height="200" align="center"/>
+Yingzte
+<img src="https://avatars2.githubusercontent.com/u/57057072?s=460&u=7bb7efaf28b6acc06613aa8494cf9a99b751037e&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
-Banten, Tangerang
+Wonogiri, Jawa Tengah
 
 ### Sekolah / Akademik
 
-Rekayasa Perangkat Lunak at SMKN Negeri 5 Kota Tangerang
+Lulusan SMKN 1 Giritontro
 
 ### Hobi
 
-- Begadang
-- Ngoding & syntax
-- Baca artikel bahasa pemrograman
-- Joging
+- Nonton Anime
+- Ngodin
+- Baca artikel pemrograman
 
 ### Bahasa Pemograman 
 
 - PHP
-- HTML
 
 ### Project
 
-- https://bhinepay.com
-- https://bhinekapulsa.my.id
+- soon
 
 
 ### Profile Link
 
-[Iqbal Mandiyansah](https://github.com/code2an)
+[Yingtze](https://github.com/yingtze)
