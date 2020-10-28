@@ -1,14 +1,12 @@
 # Nama
 
-<img src="https://avatars0.githubusercontent.com/u/56031836?s=400&u=508e1d1eede17202730e78be8cd11562b25ce477&v=4" width="200" height="200" align="center"/>
-
 ### Provisi & Kota
 
-Banten, Tangerang
+Wonogiri, Jawa Tengah
 
 ### Sekolah / Akademik
 
-Rekayasa Perangkat Lunak at SMKN Negeri 5 Kota Tangerang
+Lulusan SMKN 1 Giritontro
 
 ### Hobi
 
@@ -20,14 +18,11 @@ Rekayasa Perangkat Lunak at SMKN Negeri 5 Kota Tangerang
 ### Bahasa Pemograman 
 
 - PHP
-- HTML
 
 ### Project
 
-- https://bhinepay.com
-- https://bhinekapulsa.my.id
-
+- soon
 
 ### Profile Link
 
-[Iqbal Mandiyansah](https://github.com/code2an)
+[Kharisma Gilang](https://github.com/kharismagp)
